@@ -1,0 +1,37 @@
+	<!DOCTYPE html>  
+<html>  
+<head>  
+    <title>Searchresult</title>  
+</head>  
+<body>  
+  
+<h4>Available internships for your search :</h4>  
+<table border=3 cellpadding="5" cellspacing="5">  
+    <thead>   
+        <td><b>Internship Title</b></td>  
+        <td><b>Company</b></td>  
+        <td><b>Location</b></td> 
+        <td><b>Duration_in_months</b></td>  
+        <td><b>Stipend_per_month</b></td> 
+        <td><b>Skills_required</b></td>
+    </thead>  
+      
+    {% for row in rows %}  
+      
+        <tr>  
+            <td>{{row[0]}}</td>  
+            <td>{{row[1]}}</td>  
+            <td>{{row[2]}}</td>  
+            <td>{{row[3]}}</td>  
+            <td>{{row[4]}}</td>  
+            <td>{{row[5]}}</td>  
+        </tr>  
+      
+    {% endfor %}  
+</table>  
+<br><br>  
+  
+<a href="/chooseskills">Go back to home page</a>  
+  
+</body>  
+</html>  

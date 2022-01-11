@@ -1,0 +1,669 @@
+id,Internship_title,Company,Location,Location_1,Duration(Months),Stipend_given(perMonth),Skills_required,Skills_required_1
+1,Technical Management (OCR) Based On Machine Learning And Software Development,IIT Bombay,Work From Home,Work From Home,6,1000-2000,"Python, Software Testing, Django, Machine Learning, C++ Programming",Python
+2,Technical Management (OCR) Based On Machine Learning And Software Development,IIT Bombay,Work From Home,Work From Home,6,1000-2000,"Python, Software Testing, Django, Machine Learning, C++ Programming",Software Testing
+3,Technical Management (OCR) Based On Machine Learning And Software Development,IIT Bombay,Work From Home,Work From Home,6,1000-2000,"Python, Software Testing, Django, Machine Learning, C++ Programming",Django
+4,Technical Management (OCR) Based On Machine Learning And Software Development,IIT Bombay,Work From Home,Work From Home,6,1000-2000,"Python, Software Testing, Django, Machine Learning, C++ Programming",Machine Learning
+5,Technical Management (OCR) Based On Machine Learning And Software Development,IIT Bombay,Work From Home,Work From Home,6,1000-2000,"Python, Software Testing, Django, Machine Learning, C++ Programming",C++ Programming
+6,Data Mining & Research,IndiaMART InterMESH Limited,Work From Home,Work From Home,6,8000,"Python, .NET, JSON, Perl",Python
+7,Data Mining & Research,IndiaMART InterMESH Limited,Work From Home,Work From Home,6,8000,"Python, .NET, JSON, Perl",ASP.NET
+8,Data Mining & Research,IndiaMART InterMESH Limited,Work From Home,Work From Home,6,8000,"Python, .NET, JSON, Perl",JSON
+9,Data Mining & Research,IndiaMART InterMESH Limited,Work From Home,Work From Home,6,8000,"Python, .NET, JSON, Perl",Perl
+10,Business Analytics,Accentus Consulting,Kolkata,Kolkata,4,10000,"MS-PowerPoint, MS-Excel",MS-PowerPoint
+11,Business Analytics,Accentus Consulting,Kolkata,Kolkata,4,10000,"MS-PowerPoint, MS-Excel",MS-Excel
+12,Business Analytics,Iauro System Private Limited,Pune,Pune,6,10000,Not Found,nan
+13,Data Protection Consulting,Tsaaro,Work From Home,Work From Home,2,5000,Not Found,nan
+14,Machine Learning,Velozity Global Solutions,Work From Home,Work From Home,3,15000,"Machine Learning, Artifical Intelligence",Machine Learning
+15,Machine Learning,Velozity Global Solutions,Work From Home,Work From Home,3,15000,"Machine Learning, Artifical Intelligence",Artifical Intelligence
+16,Alchemy Development (Python/Flask/SQL),RedCarpetUp,Work From Home,Work From Home,6,20000-25000,Not Found,nan
+17,Data Science,SkillBit,Work From Home,Work From Home,2,5000,"Python, Machine Learning",Python
+18,Data Science,SkillBit,Work From Home,Work From Home,2,5000,"Python, Machine Learning",Machine Learning
+19,Business Analysis,Intelliconnect Technologies LLP,Pune,Pune,4,6000-8000,"Cloud Computing, English Proficiency (Spoken), English Proficiency (Written)",Cloud Computing
+20,Business Analysis,Intelliconnect Technologies LLP,Pune,Pune,4,6000-8000,"Cloud Computing, English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Spoken)
+21,Business Analysis,Intelliconnect Technologies LLP,Pune,Pune,4,6000-8000,"Cloud Computing, English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Written)
+22,Data Science,OneAssist Consumer Solutions Private Limited,Gurgaon,Gurgaon,6,20000-25000,Not Found,nan
+23,Data Analytics & Decision Science,Cron Labs,Bangalore,Bangalore,6,10000,"Python, SQL, Data Analytics, R Programming, Data Science, Amazon Web Services (AWS), Google Cloud Computing",Python
+24,Data Analytics & Decision Science,Cron Labs,Bangalore,Bangalore,6,10000,"Python, SQL, Data Analytics, R Programming, Data Science, Amazon Web Services (AWS), Google Cloud Computing",MySQL
+25,Data Analytics & Decision Science,Cron Labs,Bangalore,Bangalore,6,10000,"Python, SQL, Data Analytics, R Programming, Data Science, Amazon Web Services (AWS), Google Cloud Computing",Data Analytics
+26,Data Analytics & Decision Science,Cron Labs,Bangalore,Bangalore,6,10000,"Python, SQL, Data Analytics, R Programming, Data Science, Amazon Web Services (AWS), Google Cloud Computing",R Programming
+27,Data Analytics & Decision Science,Cron Labs,Bangalore,Bangalore,6,10000,"Python, SQL, Data Analytics, R Programming, Data Science, Amazon Web Services (AWS), Google Cloud Computing",Data Science
+28,Data Analytics & Decision Science,Cron Labs,Bangalore,Bangalore,6,10000,"Python, SQL, Data Analytics, R Programming, Data Science, Amazon Web Services (AWS), Google Cloud Computing",Amazon Web Services (AWS)
+29,Data Analytics & Decision Science,Cron Labs,Bangalore,Bangalore,6,10000,"Python, SQL, Data Analytics, R Programming, Data Science, Amazon Web Services (AWS), Google Cloud Computing",Google Cloud Computing
+30,Research Analysis,Pushpak.ai,Hyderabad,Hyderabad,3,10000-20000,Not Found,nan
+31,Google AdWords Management,Vplak,Gurgaon,Gurgaon,3,8000-12000,"Digital Marketing, Google AdWords, Mathematics",Digital Marketing
+32,Google AdWords Management,Vplak,Gurgaon,Gurgaon,3,8000-12000,"Digital Marketing, Google AdWords, Mathematics",Google AdWords
+33,Google AdWords Management,Vplak,Gurgaon,Gurgaon,3,8000-12000,"Digital Marketing, Google AdWords, Mathematics",Mathematics
+34,Artificial Intelligence & Machine Learning,Sumaiya Industries Private Limited,Work From Home,Work From Home,4,15000,"OpenCV, Python, Apache Cassandra",OpenCV
+35,Artificial Intelligence & Machine Learning,Sumaiya Industries Private Limited,Work From Home,Work From Home,4,15000,"OpenCV, Python, Apache Cassandra",Python
+36,Artificial Intelligence & Machine Learning,Sumaiya Industries Private Limited,Work From Home,Work From Home,4,15000,"OpenCV, Python, Apache Cassandra",Apache Cassandra
+37,Data Analytics,Noisy Lion,Noida,Noida,3,5000-10000,"MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",MS-Excel
+38,Data Analytics,Noisy Lion,Noida,Noida,3,5000-10000,"MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Spoken)
+39,Data Analytics,Noisy Lion,Noida,Noida,3,5000-10000,"MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Written)
+40,Web Scraping,Hanli,Work From Home,Work From Home,2,6000,Not Found,nan
+41,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",MySQL
+42,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",MySQL
+43,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Python
+44,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Python
+45,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",MySQL
+46,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",MySQL
+47,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Algorithms
+48,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Algorithms
+49,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Data Structures
+50,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Data Structures
+51,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Data Analytics
+52,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Data Analytics
+53,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Statistical Modeling
+54,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Statistical Modeling
+55,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Machine Learning
+56,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Machine Learning
+57,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",MS-Excel
+58,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",MS-Excel
+59,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",NoSQL
+60,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",NoSQL
+61,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Deep Learning
+62,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Deep Learning
+63,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Tableau
+64,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Tableau
+65,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pune,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Amazon Web Services (AWS)
+66,Data Science,Exa Mobility India Private Limited,"Pune, Pimpri-Chinchwad",Pimpri-Chinchwad,3,5000-10000,"MySQL, Python, SQL, Algorithms, Data Structures, Data Analytics, Statistical Modeling, Machine Learning, MS-Excel, NoSQL, Deep Learning, Tableau, Amazon Web Server (AWS)",Amazon Web Services (AWS)
+67,Data Science,Techieyan Technologies,Hyderabad,Hyderabad,6,5000,Python,Python
+68,Business Analytics,GoMechanic,Gurgaon,Gurgaon,3,15000,"Python, SQL, MS-Excel, Tableau",Python
+69,Business Analytics,GoMechanic,Gurgaon,Gurgaon,3,15000,"Python, SQL, MS-Excel, Tableau",MySQL
+70,Business Analytics,GoMechanic,Gurgaon,Gurgaon,3,15000,"Python, SQL, MS-Excel, Tableau",MS-Excel
+71,Business Analytics,GoMechanic,Gurgaon,Gurgaon,3,15000,"Python, SQL, MS-Excel, Tableau",Tableau
+72,Data Analytics,Wavteq India Research & Advisory Private Limited,Bangalore,Bangalore,3,10000,MS-Excel,MS-Excel
+73,AI/Machine Learning,Wixeey,Work From Home,Work From Home,2,8000-15000,"Machine Learning, Artifical Intelligence",Machine Learning
+74,AI/Machine Learning,Wixeey,Work From Home,Work From Home,2,8000-15000,"Machine Learning, Artifical Intelligence",Artifical Intelligence
+75,Teaching (Data Science),Build My Project,Work From Home,Work From Home,2,8000,"Machine Learning, Data Science, Internet of Things (IoT), Artifical Intelligence",Machine Learning
+76,Teaching (Data Science),Build My Project,Work From Home,Work From Home,2,8000,"Machine Learning, Data Science, Internet of Things (IoT), Artifical Intelligence",Data Science
+77,Teaching (Data Science),Build My Project,Work From Home,Work From Home,2,8000,"Machine Learning, Data Science, Internet of Things (IoT), Artifical Intelligence",Internet of Things (IoT)
+78,Teaching (Data Science),Build My Project,Work From Home,Work From Home,2,8000,"Machine Learning, Data Science, Internet of Things (IoT), Artifical Intelligence",Artifical Intelligence
+79,Machine Learning/Artificial Intelligence,Internship Studio,Pune,Pune,3,3000,"Python, Machine Learning, Artifical Intelligence",Python
+80,Machine Learning/Artificial Intelligence,Internship Studio,Pune,Pune,3,3000,"Python, Machine Learning, Artifical Intelligence",Machine Learning
+81,Machine Learning/Artificial Intelligence,Internship Studio,Pune,Pune,3,3000,"Python, Machine Learning, Artifical Intelligence",Artifical Intelligence
+82,Data Engineering,Yskool,Work From Home,Work From Home,3,8000-10000,"HTML, Python, SQL, Machine Learning, Shell Scripting, Amazon Web Services (AWS), Natural Language Processing (NLP)",HTML
+83,Data Engineering,Yskool,Work From Home,Work From Home,3,8000-10000,"HTML, Python, SQL, Machine Learning, Shell Scripting, Amazon Web Services (AWS), Natural Language Processing (NLP)",Python
+84,Data Engineering,Yskool,Work From Home,Work From Home,3,8000-10000,"HTML, Python, SQL, Machine Learning, Shell Scripting, Amazon Web Services (AWS), Natural Language Processing (NLP)",MySQL
+85,Data Engineering,Yskool,Work From Home,Work From Home,3,8000-10000,"HTML, Python, SQL, Machine Learning, Shell Scripting, Amazon Web Services (AWS), Natural Language Processing (NLP)",Machine Learning
+86,Data Engineering,Yskool,Work From Home,Work From Home,3,8000-10000,"HTML, Python, SQL, Machine Learning, Shell Scripting, Amazon Web Services (AWS), Natural Language Processing (NLP)",Shell Scripting
+87,Data Engineering,Yskool,Work From Home,Work From Home,3,8000-10000,"HTML, Python, SQL, Machine Learning, Shell Scripting, Amazon Web Services (AWS), Natural Language Processing (NLP)",Amazon Web Services (AWS)
+88,Data Engineering,Yskool,Work From Home,Work From Home,3,8000-10000,"HTML, Python, SQL, Machine Learning, Shell Scripting, Amazon Web Services (AWS), Natural Language Processing (NLP)",Natural Language Processing (NLP)
+89,AI & Data Science (Research & Development),Hornbill Labs Private Limited,Work From Home,Work From Home,2,8000-10000,"Python, Data Analytics, Django, Machine Learning, Flask, Deep Learning",Python
+90,AI & Data Science (Research & Development),Hornbill Labs Private Limited,Work From Home,Work From Home,2,8000-10000,"Python, Data Analytics, Django, Machine Learning, Flask, Deep Learning",Data Analytics
+91,AI & Data Science (Research & Development),Hornbill Labs Private Limited,Work From Home,Work From Home,2,8000-10000,"Python, Data Analytics, Django, Machine Learning, Flask, Deep Learning",Django
+92,AI & Data Science (Research & Development),Hornbill Labs Private Limited,Work From Home,Work From Home,2,8000-10000,"Python, Data Analytics, Django, Machine Learning, Flask, Deep Learning",Machine Learning
+93,AI & Data Science (Research & Development),Hornbill Labs Private Limited,Work From Home,Work From Home,2,8000-10000,"Python, Data Analytics, Django, Machine Learning, Flask, Deep Learning",Flask
+94,AI & Data Science (Research & Development),Hornbill Labs Private Limited,Work From Home,Work From Home,2,8000-10000,"Python, Data Analytics, Django, Machine Learning, Flask, Deep Learning",Deep Learning
+95,Artificial Neural Networks,Tvish,Work From Home,Work From Home,3,,"Python, Machine Learning, Computer Vision, Neural Networks, Artifical Intelligence",Python
+96,Artificial Neural Networks,Tvish,Work From Home,Work From Home,3,,"Python, Machine Learning, Computer Vision, Neural Networks, Artifical Intelligence",Machine Learning
+97,Artificial Neural Networks,Tvish,Work From Home,Work From Home,3,,"Python, Machine Learning, Computer Vision, Neural Networks, Artifical Intelligence",Computer Vision
+98,Artificial Neural Networks,Tvish,Work From Home,Work From Home,3,,"Python, Machine Learning, Computer Vision, Neural Networks, Artifical Intelligence",Neural Networks
+99,Artificial Neural Networks,Tvish,Work From Home,Work From Home,3,,"Python, Machine Learning, Computer Vision, Neural Networks, Artifical Intelligence",Artifical Intelligence
+100,Database/ETL Development,FourthPointer Services,Work From Home,Work From Home,6,12000-15000,Not Found,nan
+101,Data Science,.Kreate,Delhi,Delhi,3,15000,Python,Python
+102,Big Data,RBHU ETG PRIVATE LIMITED,Navi Mumbai,Navi Mumbai,6,10000,"Python, SQL, Power BI",Python
+103,Big Data,RBHU ETG PRIVATE LIMITED,Navi Mumbai,Navi Mumbai,6,10000,"Python, SQL, Power BI",MySQL
+104,Big Data,RBHU ETG PRIVATE LIMITED,Navi Mumbai,Navi Mumbai,6,10000,"Python, SQL, Power BI",Power BI
+105,Data Engineering,Codemonk,Work From Home,Work From Home,6,10000,"Python, SQL, MongoDB, PostgreSQL, Data Science",Python
+106,Data Engineering,Codemonk,Work From Home,Work From Home,6,10000,"Python, SQL, MongoDB, PostgreSQL, Data Science",MySQL
+107,Data Engineering,Codemonk,Work From Home,Work From Home,6,10000,"Python, SQL, MongoDB, PostgreSQL, Data Science",MongoDB
+108,Data Engineering,Codemonk,Work From Home,Work From Home,6,10000,"Python, SQL, MongoDB, PostgreSQL, Data Science",PostgreSQL
+109,Data Engineering,Codemonk,Work From Home,Work From Home,6,10000,"Python, SQL, MongoDB, PostgreSQL, Data Science",Data Science
+110,Research (AI/ML),Blackcoffer,Work From Home,Work From Home,6,5000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Artifical Intelligence",Python
+111,Research (AI/ML),Blackcoffer,Work From Home,Work From Home,6,5000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Artifical Intelligence",MySQL
+112,Research (AI/ML),Blackcoffer,Work From Home,Work From Home,6,5000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Artifical Intelligence",Data Analytics
+113,Research (AI/ML),Blackcoffer,Work From Home,Work From Home,6,5000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Artifical Intelligence",Machine Learning
+114,Research (AI/ML),Blackcoffer,Work From Home,Work From Home,6,5000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Artifical Intelligence",Data Science
+115,Research (AI/ML),Blackcoffer,Work From Home,Work From Home,6,5000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Artifical Intelligence",Artifical Intelligence
+116,Algorithmic Trading Analytics,Mudraksh And McShaw Advisory,Work From Home,Work From Home,3,1000,Not Found,nan
+117,Data Analytics,Kalani Gattani & Company,Work From Home,Work From Home,6,3000,"Python, MS-Excel, Power BI",Python
+118,Data Analytics,Kalani Gattani & Company,Work From Home,Work From Home,6,3000,"Python, MS-Excel, Power BI",MS-Excel
+119,Data Analytics,Kalani Gattani & Company,Work From Home,Work From Home,6,3000,"Python, MS-Excel, Power BI",Power BI
+120,Data Analytics,Copperpod IP,Work From Home,Work From Home,2,2500,Not Found,nan
+121,Data Science,Prakriti Textiles,Work From Home,Work From Home,2,10000,Not Found,nan
+122,Data Analytics,Prakriti Textiles,Work From Home,Work From Home,2,10000,Not Found,nan
+123,Data Annotation,Jupiter,"Bangalore, Mumbai",Bangalore,6,25000,Not Found,nan
+124,Data Annotation,Jupiter,"Bangalore, Mumbai",Mumbai,6,25000,Not Found,nan
+125,Data Analytics,Merck KGaA,Bangalore,Bangalore,6,16000,"Python, MS-PowerPoint, SQL, Statistical Modeling, MS-Excel, R Programming, Tableau",Python
+126,Data Analytics,Merck KGaA,Bangalore,Bangalore,6,16000,"Python, MS-PowerPoint, SQL, Statistical Modeling, MS-Excel, R Programming, Tableau",MS-PowerPoint
+127,Data Analytics,Merck KGaA,Bangalore,Bangalore,6,16000,"Python, MS-PowerPoint, SQL, Statistical Modeling, MS-Excel, R Programming, Tableau",MySQL
+128,Data Analytics,Merck KGaA,Bangalore,Bangalore,6,16000,"Python, MS-PowerPoint, SQL, Statistical Modeling, MS-Excel, R Programming, Tableau",Statistical Modeling
+129,Data Analytics,Merck KGaA,Bangalore,Bangalore,6,16000,"Python, MS-PowerPoint, SQL, Statistical Modeling, MS-Excel, R Programming, Tableau",MS-Excel
+130,Data Analytics,Merck KGaA,Bangalore,Bangalore,6,16000,"Python, MS-PowerPoint, SQL, Statistical Modeling, MS-Excel, R Programming, Tableau",R Programming
+131,Data Analytics,Merck KGaA,Bangalore,Bangalore,6,16000,"Python, MS-PowerPoint, SQL, Statistical Modeling, MS-Excel, R Programming, Tableau",Tableau
+132,Data Science,Prwatech,Pune,Pune,6,2000-2500,"Python, SQL",Python
+133,Data Science,Prwatech,Pune,Pune,6,2000-2500,"Python, SQL",MySQL
+134,Business Analytics,Innowrap Technologies,Work From Home,Work From Home,3,3000-5000,"MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",MS-Excel
+135,Business Analytics,Innowrap Technologies,Work From Home,Work From Home,3,3000-5000,"MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Spoken)
+136,Business Analytics,Innowrap Technologies,Work From Home,Work From Home,3,3000-5000,"MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Written)
+137,Business Analytics,Lead Panther Digitech,Work From Home,Work From Home,6,5000,"MS-Word, MS-PowerPoint, MS-Excel, English Proficiency (Spoken)",MS-Word
+138,Business Analytics,Lead Panther Digitech,Work From Home,Work From Home,6,5000,"MS-Word, MS-PowerPoint, MS-Excel, English Proficiency (Spoken)",MS-PowerPoint
+139,Business Analytics,Lead Panther Digitech,Work From Home,Work From Home,6,5000,"MS-Word, MS-PowerPoint, MS-Excel, English Proficiency (Spoken)",MS-Excel
+140,Business Analytics,Lead Panther Digitech,Work From Home,Work From Home,6,5000,"MS-Word, MS-PowerPoint, MS-Excel, English Proficiency (Spoken)",English Proficiency (Spoken)
+141,Data Science,Zonolith Technologies Private Limited,"Chandigarh, Panchkula",Chandigarh,3,10000,"Python, Data Science",Python
+142,Data Science,Zonolith Technologies Private Limited,"Chandigarh, Panchkula",Panchkula,3,10000,"Python, Data Science",Python
+143,Data Science,Zonolith Technologies Private Limited,"Chandigarh, Panchkula",Chandigarh,3,10000,"Python, Data Science",Data Science
+144,Data Science,Zonolith Technologies Private Limited,"Chandigarh, Panchkula",Panchkula,3,10000,"Python, Data Science",Data Science
+145,Deep Learning,BayesLabs,Bangalore,Bangalore,4,10000,"Python, Chemistry, Biology, Machine Learning, Deep Learning",Python
+146,Deep Learning,BayesLabs,Bangalore,Bangalore,4,10000,"Python, Chemistry, Biology, Machine Learning, Deep Learning",Chemistry
+147,Deep Learning,BayesLabs,Bangalore,Bangalore,4,10000,"Python, Chemistry, Biology, Machine Learning, Deep Learning",Biology
+148,Deep Learning,BayesLabs,Bangalore,Bangalore,4,10000,"Python, Chemistry, Biology, Machine Learning, Deep Learning",Machine Learning
+149,Deep Learning,BayesLabs,Bangalore,Bangalore,4,10000,"Python, Chemistry, Biology, Machine Learning, Deep Learning",Deep Learning
+150,Data Analytics,Cima Analytica,Work From Home,Work From Home,3,2000-7000,"Python, Blogging, MS-PowerPoint, MS-Excel, R Programming, English Proficiency (Spoken), English Proficiency (Written), Power BI, Tableau",Python
+151,Data Analytics,Cima Analytica,Work From Home,Work From Home,3,2000-7000,"Python, Blogging, MS-PowerPoint, MS-Excel, R Programming, English Proficiency (Spoken), English Proficiency (Written), Power BI, Tableau",Blogging
+152,Data Analytics,Cima Analytica,Work From Home,Work From Home,3,2000-7000,"Python, Blogging, MS-PowerPoint, MS-Excel, R Programming, English Proficiency (Spoken), English Proficiency (Written), Power BI, Tableau",MS-PowerPoint
+153,Data Analytics,Cima Analytica,Work From Home,Work From Home,3,2000-7000,"Python, Blogging, MS-PowerPoint, MS-Excel, R Programming, English Proficiency (Spoken), English Proficiency (Written), Power BI, Tableau",MS-Excel
+154,Data Analytics,Cima Analytica,Work From Home,Work From Home,3,2000-7000,"Python, Blogging, MS-PowerPoint, MS-Excel, R Programming, English Proficiency (Spoken), English Proficiency (Written), Power BI, Tableau",R Programming
+155,Data Analytics,Cima Analytica,Work From Home,Work From Home,3,2000-7000,"Python, Blogging, MS-PowerPoint, MS-Excel, R Programming, English Proficiency (Spoken), English Proficiency (Written), Power BI, Tableau",English Proficiency (Spoken)
+156,Data Analytics,Cima Analytica,Work From Home,Work From Home,3,2000-7000,"Python, Blogging, MS-PowerPoint, MS-Excel, R Programming, English Proficiency (Spoken), English Proficiency (Written), Power BI, Tableau",English Proficiency (Written)
+157,Data Analytics,Cima Analytica,Work From Home,Work From Home,3,2000-7000,"Python, Blogging, MS-PowerPoint, MS-Excel, R Programming, English Proficiency (Spoken), English Proficiency (Written), Power BI, Tableau",Power BI
+158,Data Analytics,Cima Analytica,Work From Home,Work From Home,3,2000-7000,"Python, Blogging, MS-PowerPoint, MS-Excel, R Programming, English Proficiency (Spoken), English Proficiency (Written), Power BI, Tableau",Tableau
+159,Machine Learning,Allinclusive Foundation,Work From Home,Work From Home,3,3000,"Python, Machine Learning, Artifical Intelligence",Python
+160,Machine Learning,Allinclusive Foundation,Work From Home,Work From Home,3,3000,"Python, Machine Learning, Artifical Intelligence",Machine Learning
+161,Machine Learning,Allinclusive Foundation,Work From Home,Work From Home,3,3000,"Python, Machine Learning, Artifical Intelligence",Artifical Intelligence
+162,NLP/Machine Learning Development,Neha Yadav,Work From Home,Work From Home,3,,"Python, Machine Learning, Natural Language Processing (NLP)",Python
+163,NLP/Machine Learning Development,Neha Yadav,Work From Home,Work From Home,3,,"Python, Machine Learning, Natural Language Processing (NLP)",Machine Learning
+164,NLP/Machine Learning Development,Neha Yadav,Work From Home,Work From Home,3,,"Python, Machine Learning, Natural Language Processing (NLP)",Natural Language Processing (NLP)
+165,Machine Learning,EnR Consultancy Services,Work From Home,Work From Home,6,1000-6000,"Python, Machine Learning, Raspberry Pi, Embedded Systems, Deep Learning, Artifical Intelligence",Python
+166,Machine Learning,EnR Consultancy Services,Work From Home,Work From Home,6,1000-6000,"Python, Machine Learning, Raspberry Pi, Embedded Systems, Deep Learning, Artifical Intelligence",Machine Learning
+167,Machine Learning,EnR Consultancy Services,Work From Home,Work From Home,6,1000-6000,"Python, Machine Learning, Raspberry Pi, Embedded Systems, Deep Learning, Artifical Intelligence",Raspberry Pi
+168,Machine Learning,EnR Consultancy Services,Work From Home,Work From Home,6,1000-6000,"Python, Machine Learning, Raspberry Pi, Embedded Systems, Deep Learning, Artifical Intelligence",Embedded Systems
+169,Machine Learning,EnR Consultancy Services,Work From Home,Work From Home,6,1000-6000,"Python, Machine Learning, Raspberry Pi, Embedded Systems, Deep Learning, Artifical Intelligence",Deep Learning
+170,Machine Learning,EnR Consultancy Services,Work From Home,Work From Home,6,1000-6000,"Python, Machine Learning, Raspberry Pi, Embedded Systems, Deep Learning, Artifical Intelligence",Artifical Intelligence
+171,Business Analysis,Cloudify,Work From Home,Work From Home,6,15000,Not Found,nan
+172,Machine Learning,Robocom International,Mumbai,Mumbai,2,3000-6000,"Python, Machine Learning, Deep Learning",Python
+173,Machine Learning,Robocom International,Mumbai,Mumbai,2,3000-6000,"Python, Machine Learning, Deep Learning",Machine Learning
+174,Machine Learning,Robocom International,Mumbai,Mumbai,2,3000-6000,"Python, Machine Learning, Deep Learning",Deep Learning
+175,Data Analytics,Mapup India Private Limited,Work From Home,Work From Home,6,30000-40000,"Python, SQL, PostgreSQL, MS-Excel, Data Analytics",Python
+176,Data Analytics,Mapup India Private Limited,Work From Home,Work From Home,6,30000-40000,"Python, SQL, PostgreSQL, MS-Excel, Data Analytics",MySQL
+177,Data Analytics,Mapup India Private Limited,Work From Home,Work From Home,6,30000-40000,"Python, SQL, PostgreSQL, MS-Excel, Data Analytics",PostgreSQL
+178,Data Analytics,Mapup India Private Limited,Work From Home,Work From Home,6,30000-40000,"Python, SQL, PostgreSQL, MS-Excel, Data Analytics",MS-Excel
+179,Data Analytics,Mapup India Private Limited,Work From Home,Work From Home,6,30000-40000,"Python, SQL, PostgreSQL, MS-Excel, Data Analytics",Data Analytics
+180,Data Extraction,Society For Health And Medical Technology,Work From Home,Work From Home,6,,"Python, Shell Scripting, Data Science",Python
+181,Data Extraction,Society For Health And Medical Technology,Work From Home,Work From Home,6,,"Python, Shell Scripting, Data Science",Shell Scripting
+182,Data Extraction,Society For Health And Medical Technology,Work From Home,Work From Home,6,,"Python, Shell Scripting, Data Science",Data Science
+183,Data Science,Sourcewiz,Gurgaon,Gurgaon,3,10000-15000,"Python, SQL, Statistical Modeling, Data Science",Python
+184,Data Science,Sourcewiz,Gurgaon,Gurgaon,3,10000-15000,"Python, SQL, Statistical Modeling, Data Science",MySQL
+185,Data Science,Sourcewiz,Gurgaon,Gurgaon,3,10000-15000,"Python, SQL, Statistical Modeling, Data Science",Statistical Modeling
+186,Data Science,Sourcewiz,Gurgaon,Gurgaon,3,10000-15000,"Python, SQL, Statistical Modeling, Data Science",Data Science
+187,Web Development,DSights Consultancy Services Private Limited,Work From Home,Work From Home,6,10000-12000,Not Found,nan
+188,Business Analysis,Iauro System Private Limited,Pune,Pune,6,8000,Not Found,nan
+189,Data Analytics,TBM Technologies Private Limited,Delhi,Delhi,3,5000,"Python, Data Analytics, Statistical Modeling, Machine Learning, Natural Language Processing (NLP)",Python
+190,Data Analytics,TBM Technologies Private Limited,Delhi,Delhi,3,5000,"Python, Data Analytics, Statistical Modeling, Machine Learning, Natural Language Processing (NLP)",Data Analytics
+191,Data Analytics,TBM Technologies Private Limited,Delhi,Delhi,3,5000,"Python, Data Analytics, Statistical Modeling, Machine Learning, Natural Language Processing (NLP)",Statistical Modeling
+192,Data Analytics,TBM Technologies Private Limited,Delhi,Delhi,3,5000,"Python, Data Analytics, Statistical Modeling, Machine Learning, Natural Language Processing (NLP)",Machine Learning
+193,Data Analytics,TBM Technologies Private Limited,Delhi,Delhi,3,5000,"Python, Data Analytics, Statistical Modeling, Machine Learning, Natural Language Processing (NLP)",Natural Language Processing (NLP)
+194,Data Analytics,Pixelo Digital,Work From Home,Work From Home,3,5000,"Python, SQL, Django, MS-Excel",Python
+195,Data Analytics,Pixelo Digital,Work From Home,Work From Home,3,5000,"Python, SQL, Django, MS-Excel",MySQL
+196,Data Analytics,Pixelo Digital,Work From Home,Work From Home,3,5000,"Python, SQL, Django, MS-Excel",Django
+197,Data Analytics,Pixelo Digital,Work From Home,Work From Home,3,5000,"Python, SQL, Django, MS-Excel",MS-Excel
+198,Data Operations Analysis,Lohum Cleantech Private Limited,Greater Noida,Greater Noida,3,20000-30000,"Python, MS-Excel, English Proficiency (Written)",Python
+199,Data Operations Analysis,Lohum Cleantech Private Limited,Greater Noida,Greater Noida,3,20000-30000,"Python, MS-Excel, English Proficiency (Written)",MS-Excel
+200,Data Operations Analysis,Lohum Cleantech Private Limited,Greater Noida,Greater Noida,3,20000-30000,"Python, MS-Excel, English Proficiency (Written)",English Proficiency (Written)
+201,Data Annotator,KoiReader Technologies,Work From Home,Work From Home,3,4000-8000,"Machine Learning, Image Processing, Computer Vision, Natural Language Processing (NLP), Artifical Intelligence",Machine Learning
+202,Data Annotator,KoiReader Technologies,Work From Home,Work From Home,3,4000-8000,"Machine Learning, Image Processing, Computer Vision, Natural Language Processing (NLP), Artifical Intelligence",Image Processing
+203,Data Annotator,KoiReader Technologies,Work From Home,Work From Home,3,4000-8000,"Machine Learning, Image Processing, Computer Vision, Natural Language Processing (NLP), Artifical Intelligence",Computer Vision
+204,Data Annotator,KoiReader Technologies,Work From Home,Work From Home,3,4000-8000,"Machine Learning, Image Processing, Computer Vision, Natural Language Processing (NLP), Artifical Intelligence",Natural Language Processing (NLP)
+205,Data Annotator,KoiReader Technologies,Work From Home,Work From Home,3,4000-8000,"Machine Learning, Image Processing, Computer Vision, Natural Language Processing (NLP), Artifical Intelligence",Artifical Intelligence
+206,Data Analytics,Divoc Health,Delhi,Delhi,3,6000-9000,Not Found,nan
+207,Data Analytics,Propellum Infotech,Mumbai,Mumbai,3,10000,"HTML, SQL, MS-Excel",HTML
+208,Data Analytics,Propellum Infotech,Mumbai,Mumbai,3,10000,"HTML, SQL, MS-Excel",MySQL
+209,Data Analytics,Propellum Infotech,Mumbai,Mumbai,3,10000,"HTML, SQL, MS-Excel",MS-Excel
+210,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Chennai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Google Analytics
+211,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Delhi,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Google Analytics
+212,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Pune,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Google Analytics
+213,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Bangalore,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Google Analytics
+214,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Hyderabad,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Google Analytics
+215,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Mumbai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Google Analytics
+216,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Chennai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-PowerPoint
+217,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Delhi,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-PowerPoint
+218,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Pune,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-PowerPoint
+219,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Bangalore,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-PowerPoint
+220,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Hyderabad,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-PowerPoint
+221,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Mumbai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-PowerPoint
+222,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Chennai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Data Analytics
+223,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Delhi,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Data Analytics
+224,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Pune,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Data Analytics
+225,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Bangalore,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Data Analytics
+226,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Hyderabad,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Data Analytics
+227,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Mumbai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Data Analytics
+228,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Chennai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Statistical Modeling
+229,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Delhi,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Statistical Modeling
+230,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Pune,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Statistical Modeling
+231,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Bangalore,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Statistical Modeling
+232,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Hyderabad,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Statistical Modeling
+233,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Mumbai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Statistical Modeling
+234,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Chennai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-Excel
+235,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Delhi,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-Excel
+236,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Pune,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-Excel
+237,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Bangalore,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-Excel
+238,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Hyderabad,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-Excel
+239,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Mumbai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",MS-Excel
+240,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Chennai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Economics
+241,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Delhi,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Economics
+242,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Pune,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Economics
+243,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Bangalore,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Economics
+244,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Hyderabad,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Economics
+245,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Mumbai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Economics
+246,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Chennai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Research and Analytics
+247,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Delhi,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Research and Analytics
+248,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Pune,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Research and Analytics
+249,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Bangalore,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Research and Analytics
+250,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Hyderabad,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Research and Analytics
+251,Research Analytics,Torre Capital,"Chennai, Delhi, Pune, Bangalore, Hyderabad, Mumbai",Mumbai,3,8000,"Google Analytics, MS-PowerPoint, Data Analytics, Statistical Modeling, MS-Excel, Economics, Research and Analytics",Research and Analytics
+252,Business Analytics,Arustu Technology Private Limited,Jaipur,Jaipur,6,15000,English Proficiency (Spoken),English Proficiency (Spoken)
+253,Machine Learning,IQGateway,Work From Home,Work From Home,6,15000-20000,"Python, Mathematics, Machine Learning",Python
+254,Machine Learning,IQGateway,Work From Home,Work From Home,6,15000-20000,"Python, Mathematics, Machine Learning",Mathematics
+255,Machine Learning,IQGateway,Work From Home,Work From Home,6,15000-20000,"Python, Mathematics, Machine Learning",Machine Learning
+256,Data Science,KUKbit Software Lab,Pune,Pune,1,15000,"Python, Machine Learning",Python
+257,Data Science,KUKbit Software Lab,Pune,Pune,1,15000,"Python, Machine Learning",Machine Learning
+258,Data Analytics,TrendyDice,Work From Home,Work From Home,3,10000,"Python, Data Analytics, Data Science",Python
+259,Data Analytics,TrendyDice,Work From Home,Work From Home,3,10000,"Python, Data Analytics, Data Science",Data Analytics
+260,Data Analytics,TrendyDice,Work From Home,Work From Home,3,10000,"Python, Data Analytics, Data Science",Data Science
+261,DevOps Engineering,Helping Hand,Work From Home,Work From Home,3,1000,Not Found,nan
+262,Deep Learning,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Computer Vision, Deep Learning, Artifical Intelligence",Python
+263,Deep Learning,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Computer Vision, Deep Learning, Artifical Intelligence",Machine Learning
+264,Deep Learning,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Computer Vision, Deep Learning, Artifical Intelligence",Computer Vision
+265,Deep Learning,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Computer Vision, Deep Learning, Artifical Intelligence",Deep Learning
+266,Deep Learning,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Computer Vision, Deep Learning, Artifical Intelligence",Artifical Intelligence
+267,Natural Language Processing,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Python
+268,Natural Language Processing,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Machine Learning
+269,Natural Language Processing,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Natural Language Processing (NLP)
+270,Natural Language Processing,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Deep Learning
+271,Natural Language Processing,Braynix AI LLP,Work From Home,Work From Home,1,1000,"Python, Machine Learning, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Artifical Intelligence
+272,Business Analytics & Research,P2L Impact Learning Empowers Private Limited,Work From Home,Work From Home,2,2000,"MS-PowerPoint, Data Analytics, MS-Excel, Research and Analytics",MS-PowerPoint
+273,Business Analytics & Research,P2L Impact Learning Empowers Private Limited,Work From Home,Work From Home,2,2000,"MS-PowerPoint, Data Analytics, MS-Excel, Research and Analytics",Data Analytics
+274,Business Analytics & Research,P2L Impact Learning Empowers Private Limited,Work From Home,Work From Home,2,2000,"MS-PowerPoint, Data Analytics, MS-Excel, Research and Analytics",MS-Excel
+275,Business Analytics & Research,P2L Impact Learning Empowers Private Limited,Work From Home,Work From Home,2,2000,"MS-PowerPoint, Data Analytics, MS-Excel, Research and Analytics",Research and Analytics
+276,Financial Analysis,P2L Impact Learning Empowers Private Limited,Work From Home,Work From Home,2,2000,"MS-PowerPoint, Data Analytics, MS-Excel, Financial Modeling",MS-PowerPoint
+277,Financial Analysis,P2L Impact Learning Empowers Private Limited,Work From Home,Work From Home,2,2000,"MS-PowerPoint, Data Analytics, MS-Excel, Financial Modeling",Data Analytics
+278,Financial Analysis,P2L Impact Learning Empowers Private Limited,Work From Home,Work From Home,2,2000,"MS-PowerPoint, Data Analytics, MS-Excel, Financial Modeling",MS-Excel
+279,Financial Analysis,P2L Impact Learning Empowers Private Limited,Work From Home,Work From Home,2,2000,"MS-PowerPoint, Data Analytics, MS-Excel, Financial Modeling",Financial Modeling
+280,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Chennai,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",MySQL
+281,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Delhi,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",MySQL
+282,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Noida,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",MySQL
+283,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Chennai,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Python
+284,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Delhi,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Python
+285,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Noida,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Python
+286,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Chennai,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",MySQL
+287,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Delhi,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",MySQL
+288,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Noida,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",MySQL
+289,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Chennai,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Unix
+290,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Delhi,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Unix
+291,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Noida,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Unix
+292,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Chennai,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Django
+293,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Delhi,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Django
+294,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Noida,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Django
+295,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Chennai,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Machine Learning
+296,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Delhi,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Machine Learning
+297,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Noida,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",Machine Learning
+298,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Chennai,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",PostgreSQL
+299,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Delhi,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",PostgreSQL
+300,Machine Learning Engineering,Bulkbyte Company,"Chennai, Delhi, Noida",Noida,6,7500-15000,"MySQL, Python, SQL, Unix, Django, Machine Learning, PostgreSQL",PostgreSQL
+301,Machine Learning & Deep Learning,Start-Tech Academy,Gurgaon,Gurgaon,2,10000,"Machine Learning, English Proficiency (Written), Deep Learning",Machine Learning
+302,Machine Learning & Deep Learning,Start-Tech Academy,Gurgaon,Gurgaon,2,10000,"Machine Learning, English Proficiency (Written), Deep Learning",English Proficiency (Written)
+303,Machine Learning & Deep Learning,Start-Tech Academy,Gurgaon,Gurgaon,2,10000,"Machine Learning, English Proficiency (Written), Deep Learning",Deep Learning
+304,Data Management (Quality),Bonito Designs Private Limited,Bangalore,Bangalore,2,10000,"MS-Office, MS-Word, MS-Excel",MS-Office
+305,Data Management (Quality),Bonito Designs Private Limited,Bangalore,Bangalore,2,10000,"MS-Office, MS-Word, MS-Excel",MS-Word
+306,Data Management (Quality),Bonito Designs Private Limited,Bangalore,Bangalore,2,10000,"MS-Office, MS-Word, MS-Excel",MS-Excel
+307,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Python
+308,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",MySQL
+309,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Data Analytics
+310,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Machine Learning
+311,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Computer Vision
+312,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Data Science
+313,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Neural Networks
+314,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Natural Language Processing (NLP)
+315,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Deep Learning
+316,Content Writing (Data Science),Let The Data Confess,Work From Home,Work From Home,3,3000,"Python, SQL, Data Analytics, Machine Learning, Computer Vision, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artifical Intelligence",Artifical Intelligence
+317,Research Analysis,Callify.ai,Mumbai,Mumbai,6,18000,"English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Spoken)
+318,Research Analysis,Callify.ai,Mumbai,Mumbai,6,18000,"English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Written)
+319,Data Science,FinsightAI Technologies Private Limited,Work From Home,Work From Home,2,6000-12000,"Python, Machine Learning, Data Science, Natural Language Processing (NLP)",Python
+320,Data Science,FinsightAI Technologies Private Limited,Work From Home,Work From Home,2,6000-12000,"Python, Machine Learning, Data Science, Natural Language Processing (NLP)",Machine Learning
+321,Data Science,FinsightAI Technologies Private Limited,Work From Home,Work From Home,2,6000-12000,"Python, Machine Learning, Data Science, Natural Language Processing (NLP)",Data Science
+322,Data Science,FinsightAI Technologies Private Limited,Work From Home,Work From Home,2,6000-12000,"Python, Machine Learning, Data Science, Natural Language Processing (NLP)",Natural Language Processing (NLP)
+323,Machine Learning,Learn With Leaders,Work From Home,Work From Home,6,5000,Not Found,nan
+324,Data Visualization,Leadge Business Services Private Limited,Mumbai,Mumbai,6,10000,"Data Analytics, MS-Excel",Data Analytics
+325,Data Visualization,Leadge Business Services Private Limited,Mumbai,Mumbai,6,10000,"Data Analytics, MS-Excel",MS-Excel
+326,Data Engineering,Devendra S,Work From Home,Work From Home,6,1000,Not Found,nan
+327,Business Analysis,Blackcoffer,Work From Home,Work From Home,6,5000-10000,Not Found,nan
+328,Data Science,Blackcoffer,Work From Home,Work From Home,6,5000-10000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Power BI, Artifical Intelligence, Elasticsearch",Python
+329,Data Science,Blackcoffer,Work From Home,Work From Home,6,5000-10000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Power BI, Artifical Intelligence, Elasticsearch",MySQL
+330,Data Science,Blackcoffer,Work From Home,Work From Home,6,5000-10000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Power BI, Artifical Intelligence, Elasticsearch",Data Analytics
+331,Data Science,Blackcoffer,Work From Home,Work From Home,6,5000-10000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Power BI, Artifical Intelligence, Elasticsearch",Machine Learning
+332,Data Science,Blackcoffer,Work From Home,Work From Home,6,5000-10000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Power BI, Artifical Intelligence, Elasticsearch",Data Science
+333,Data Science,Blackcoffer,Work From Home,Work From Home,6,5000-10000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Power BI, Artifical Intelligence, Elasticsearch",Power BI
+334,Data Science,Blackcoffer,Work From Home,Work From Home,6,5000-10000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Power BI, Artifical Intelligence, Elasticsearch",Artifical Intelligence
+335,Data Science,Blackcoffer,Work From Home,Work From Home,6,5000-10000,"Python, SQL, Data Analytics, Machine Learning, Data Science, Power BI, Artifical Intelligence, Elasticsearch",Elasticsearch
+336,Data Science,LocoBuzz,Work From Home,Work From Home,3,10000,"Python, Machine Learning, Deep Learning",Python
+337,Data Science,LocoBuzz,Work From Home,Work From Home,3,10000,"Python, Machine Learning, Deep Learning",Machine Learning
+338,Data Science,LocoBuzz,Work From Home,Work From Home,3,10000,"Python, Machine Learning, Deep Learning",Deep Learning
+339,Financial Analyst,PRM Fincon Services Private Limited,Kolkata,Kolkata,4,8000,"Accounting, MS-Excel",Accounting
+340,Financial Analyst,PRM Fincon Services Private Limited,Kolkata,Kolkata,4,8000,"Accounting, MS-Excel",MS-Excel
+341,Web Development,Consuma,Bangalore,Bangalore,1,12500,"Python, GitHub, REST API, Amazon Web Services (AWS), Flask",Python
+342,Web Development,Consuma,Bangalore,Bangalore,1,12500,"Python, GitHub, REST API, Amazon Web Services (AWS), Flask",GitHub
+343,Web Development,Consuma,Bangalore,Bangalore,1,12500,"Python, GitHub, REST API, Amazon Web Services (AWS), Flask",REST API
+344,Web Development,Consuma,Bangalore,Bangalore,1,12500,"Python, GitHub, REST API, Amazon Web Services (AWS), Flask",Amazon Web Services (AWS)
+345,Web Development,Consuma,Bangalore,Bangalore,1,12500,"Python, GitHub, REST API, Amazon Web Services (AWS), Flask",Flask
+346,Machine Learning,KUKbit Software Lab,Pune,Pune,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",Python
+347,Machine Learning,KUKbit Software Lab,Pune,Pune,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",Machine Learning
+348,Machine Learning,KUKbit Software Lab,Pune,Pune,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",R Programming
+349,Machine Learning,KUKbit Software Lab,Pune,Pune,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",Data Science
+350,Machine Learning,KUKbit Software Lab,Pune,Pune,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",Deep Learning
+351,Data Analytics (Female),Instrovate Technologies,Work From Home,Work From Home,3,5000,English Proficiency (Spoken),English Proficiency (Spoken)
+352,Academic Research Writing (People Analytics & Digital Disruption In HR),Aman Jain,Bangalore,Bangalore,2,2000,"MS-Word, SPSS, MS-Excel, English Proficiency (Written)",MS-Word
+353,Academic Research Writing (People Analytics & Digital Disruption In HR),Aman Jain,Bangalore,Bangalore,2,2000,"MS-Word, SPSS, MS-Excel, English Proficiency (Written)",SPSS
+354,Academic Research Writing (People Analytics & Digital Disruption In HR),Aman Jain,Bangalore,Bangalore,2,2000,"MS-Word, SPSS, MS-Excel, English Proficiency (Written)",MS-Excel
+355,Academic Research Writing (People Analytics & Digital Disruption In HR),Aman Jain,Bangalore,Bangalore,2,2000,"MS-Word, SPSS, MS-Excel, English Proficiency (Written)",English Proficiency (Written)
+356,Data Science,KUKbit Software Lab,Work From Home,Work From Home,1,5000,"Python, Machine Learning",Python
+357,Data Science,KUKbit Software Lab,Work From Home,Work From Home,1,5000,"Python, Machine Learning",Machine Learning
+358,Data Science,Society For Health And Medical Technology,Work From Home,Work From Home,6,,"Python, Machine Learning, Artifical Intelligence",Python
+359,Data Science,Society For Health And Medical Technology,Work From Home,Work From Home,6,,"Python, Machine Learning, Artifical Intelligence",Machine Learning
+360,Data Science,Society For Health And Medical Technology,Work From Home,Work From Home,6,,"Python, Machine Learning, Artifical Intelligence",Artifical Intelligence
+361,Product Development,Vitraya,Work From Home,Work From Home,2,5000-9000,"Data Analytics, Manual Testing, MS-Excel, English Proficiency (Written)",Data Analytics
+362,Product Development,Vitraya,Work From Home,Work From Home,2,5000-9000,"Data Analytics, Manual Testing, MS-Excel, English Proficiency (Written)",Manual Testing
+363,Product Development,Vitraya,Work From Home,Work From Home,2,5000-9000,"Data Analytics, Manual Testing, MS-Excel, English Proficiency (Written)",MS-Excel
+364,Product Development,Vitraya,Work From Home,Work From Home,2,5000-9000,"Data Analytics, Manual Testing, MS-Excel, English Proficiency (Written)",English Proficiency (Written)
+365,Convolution Neural Network,Code Karo Yaaro,Work From Home,Work From Home,4,,Machine Learning,Machine Learning
+366,University Analysis,GREedge,Work From Home,Work From Home,6,20000,"English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Spoken)
+367,University Analysis,GREedge,Work From Home,Work From Home,6,20000,"English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Written)
+368,Machine Learning,Axiomtech Solutions,Pune,Pune,3,2000,"MATLAB, Mathematics, Machine Learning",MATLAB
+369,Machine Learning,Axiomtech Solutions,Pune,Pune,3,2000,"MATLAB, Mathematics, Machine Learning",Mathematics
+370,Machine Learning,Axiomtech Solutions,Pune,Pune,3,2000,"MATLAB, Mathematics, Machine Learning",Machine Learning
+371,Business Analytics,Mr n Mrs Pet,Jaipur,Jaipur,6,10000,"Project Management, Rapid Prototyping, Power BI, Research and Analytics",Project Management
+372,Business Analytics,Mr n Mrs Pet,Jaipur,Jaipur,6,10000,"Project Management, Rapid Prototyping, Power BI, Research and Analytics",Rapid Prototyping
+373,Business Analytics,Mr n Mrs Pet,Jaipur,Jaipur,6,10000,"Project Management, Rapid Prototyping, Power BI, Research and Analytics",Power BI
+374,Business Analytics,Mr n Mrs Pet,Jaipur,Jaipur,6,10000,"Project Management, Rapid Prototyping, Power BI, Research and Analytics",Research and Analytics
+375,Data Annotation,Labellerr By Tensor Matics Private Limited,Work From Home,Work From Home,3,10000,"MS-Office, Data Analytics, Manual Testing, Audio Editing, Computer Vision, Database Testing, Software Testing, GUI Testing",MS-Office
+376,Data Annotation,Labellerr By Tensor Matics Private Limited,Work From Home,Work From Home,3,10000,"MS-Office, Data Analytics, Manual Testing, Audio Editing, Computer Vision, Database Testing, Software Testing, GUI Testing",Data Analytics
+377,Data Annotation,Labellerr By Tensor Matics Private Limited,Work From Home,Work From Home,3,10000,"MS-Office, Data Analytics, Manual Testing, Audio Editing, Computer Vision, Database Testing, Software Testing, GUI Testing",Manual Testing
+378,Data Annotation,Labellerr By Tensor Matics Private Limited,Work From Home,Work From Home,3,10000,"MS-Office, Data Analytics, Manual Testing, Audio Editing, Computer Vision, Database Testing, Software Testing, GUI Testing",Audio Editing
+379,Data Annotation,Labellerr By Tensor Matics Private Limited,Work From Home,Work From Home,3,10000,"MS-Office, Data Analytics, Manual Testing, Audio Editing, Computer Vision, Database Testing, Software Testing, GUI Testing",Computer Vision
+380,Data Annotation,Labellerr By Tensor Matics Private Limited,Work From Home,Work From Home,3,10000,"MS-Office, Data Analytics, Manual Testing, Audio Editing, Computer Vision, Database Testing, Software Testing, GUI Testing",Database Testing
+381,Data Annotation,Labellerr By Tensor Matics Private Limited,Work From Home,Work From Home,3,10000,"MS-Office, Data Analytics, Manual Testing, Audio Editing, Computer Vision, Database Testing, Software Testing, GUI Testing",Software Testing
+382,Data Annotation,Labellerr By Tensor Matics Private Limited,Work From Home,Work From Home,3,10000,"MS-Office, Data Analytics, Manual Testing, Audio Editing, Computer Vision, Database Testing, Software Testing, GUI Testing",GUI Testing
+383,Data Analytics,Future Metrics,Work From Home,Work From Home,6,1000,Not Found,nan
+384,Data Mining (Web Scraping/Web Crawling),Ignis Tech Solutions,Work From Home,Work From Home,2,5000,"Python, Django, REST API",Python
+385,Data Mining (Web Scraping/Web Crawling),Ignis Tech Solutions,Work From Home,Work From Home,2,5000,"Python, Django, REST API",Django
+386,Data Mining (Web Scraping/Web Crawling),Ignis Tech Solutions,Work From Home,Work From Home,2,5000,"Python, Django, REST API",REST API
+387,FinTech & Big Data,Girl Power Talk,Work From Home,Work From Home,6,4000-8000,"Accounting, Financial Modeling, R Programming, Data Science, C++ Programming, English Proficiency (Spoken), English Proficiency (Written), Artifical Intelligence",Accounting
+388,FinTech & Big Data,Girl Power Talk,Work From Home,Work From Home,6,4000-8000,"Accounting, Financial Modeling, R Programming, Data Science, C++ Programming, English Proficiency (Spoken), English Proficiency (Written), Artifical Intelligence",Financial Modeling
+389,FinTech & Big Data,Girl Power Talk,Work From Home,Work From Home,6,4000-8000,"Accounting, Financial Modeling, R Programming, Data Science, C++ Programming, English Proficiency (Spoken), English Proficiency (Written), Artifical Intelligence",R Programming
+390,FinTech & Big Data,Girl Power Talk,Work From Home,Work From Home,6,4000-8000,"Accounting, Financial Modeling, R Programming, Data Science, C++ Programming, English Proficiency (Spoken), English Proficiency (Written), Artifical Intelligence",Data Science
+391,FinTech & Big Data,Girl Power Talk,Work From Home,Work From Home,6,4000-8000,"Accounting, Financial Modeling, R Programming, Data Science, C++ Programming, English Proficiency (Spoken), English Proficiency (Written), Artifical Intelligence",C++ Programming
+392,FinTech & Big Data,Girl Power Talk,Work From Home,Work From Home,6,4000-8000,"Accounting, Financial Modeling, R Programming, Data Science, C++ Programming, English Proficiency (Spoken), English Proficiency (Written), Artifical Intelligence",English Proficiency (Spoken)
+393,FinTech & Big Data,Girl Power Talk,Work From Home,Work From Home,6,4000-8000,"Accounting, Financial Modeling, R Programming, Data Science, C++ Programming, English Proficiency (Spoken), English Proficiency (Written), Artifical Intelligence",English Proficiency (Written)
+394,FinTech & Big Data,Girl Power Talk,Work From Home,Work From Home,6,4000-8000,"Accounting, Financial Modeling, R Programming, Data Science, C++ Programming, English Proficiency (Spoken), English Proficiency (Written), Artifical Intelligence",Artifical Intelligence
+395,Database Building/Management,Society For Health And Medical Technology,Work From Home,Work From Home,6,,Not Found,nan
+396,Data Analytics,Bakerstreet Fintech Private Limited,Pune,Pune,6,6000,"HTML, JavaScript, Python, ReactJS",HTML
+397,Data Analytics,Bakerstreet Fintech Private Limited,Pune,Pune,6,6000,"HTML, JavaScript, Python, ReactJS",JavaScript
+398,Data Analytics,Bakerstreet Fintech Private Limited,Pune,Pune,6,6000,"HTML, JavaScript, Python, ReactJS",Python
+399,Data Analytics,Bakerstreet Fintech Private Limited,Pune,Pune,6,6000,"HTML, JavaScript, Python, ReactJS",ReactJS
+400,Research Analysis,Qualicentric LLP,Delhi,Delhi,3,10000-12000,Not Found,nan
+401,Data Analytics,Agrim Wholsesale Private Limited,Gurgaon,Gurgaon,4,10000,"SQL, MS-Excel",MySQL
+402,Data Analytics,Agrim Wholsesale Private Limited,Gurgaon,Gurgaon,4,10000,"SQL, MS-Excel",MS-Excel
+403,Artificial Intelligence (AI),Society For Health And Medical Technology,Work From Home,Work From Home,6,,"Neural Networks, Natural Language Processing (NLP)",Neural Networks
+404,Artificial Intelligence (AI),Society For Health And Medical Technology,Work From Home,Work From Home,6,,"Neural Networks, Natural Language Processing (NLP)",Natural Language Processing (NLP)
+405,Machine Learning,Spacejoy.com,Work From Home,Work From Home,6,25000,"Python, Data Analytics, Machine Learning, Image Processing, Computer Vision",Python
+406,Machine Learning,Spacejoy.com,Work From Home,Work From Home,6,25000,"Python, Data Analytics, Machine Learning, Image Processing, Computer Vision",Data Analytics
+407,Machine Learning,Spacejoy.com,Work From Home,Work From Home,6,25000,"Python, Data Analytics, Machine Learning, Image Processing, Computer Vision",Machine Learning
+408,Machine Learning,Spacejoy.com,Work From Home,Work From Home,6,25000,"Python, Data Analytics, Machine Learning, Image Processing, Computer Vision",Image Processing
+409,Machine Learning,Spacejoy.com,Work From Home,Work From Home,6,25000,"Python, Data Analytics, Machine Learning, Image Processing, Computer Vision",Computer Vision
+410,Business Analytics,Scale Labs,Hyderabad,Hyderabad,6,5000,Not Found,nan
+411,Business Analytics (Tableau),Artinci Artisanal Foods Private Limited,Work From Home,Work From Home,3,15000-25000,Tableau,Tableau
+412,Data Analytics,Mentored Minds,Work From Home,Work From Home,2,2000,Not Found,nan
+413,Data Science,CARscan,Work From Home,Work From Home,3,3000-5000,"Machine Learning, Computer Vision, Neural Networks, Deep Learning",Machine Learning
+414,Data Science,CARscan,Work From Home,Work From Home,3,3000-5000,"Machine Learning, Computer Vision, Neural Networks, Deep Learning",Computer Vision
+415,Data Science,CARscan,Work From Home,Work From Home,3,3000-5000,"Machine Learning, Computer Vision, Neural Networks, Deep Learning",Neural Networks
+416,Data Science,CARscan,Work From Home,Work From Home,3,3000-5000,"Machine Learning, Computer Vision, Neural Networks, Deep Learning",Deep Learning
+417,Machine Learning,Exam-Practice,Work From Home,Work From Home,2,10000-20000,"Machine Learning, Natural Language Processing (NLP), Deep Learning",Machine Learning
+418,Machine Learning,Exam-Practice,Work From Home,Work From Home,2,10000-20000,"Machine Learning, Natural Language Processing (NLP), Deep Learning",Natural Language Processing (NLP)
+419,Machine Learning,Exam-Practice,Work From Home,Work From Home,2,10000-20000,"Machine Learning, Natural Language Processing (NLP), Deep Learning",Deep Learning
+420,Machine Learning,Pugalia Woollen Mills Private Limited,Work From Home,Work From Home,2,1000,Not Found,nan
+421,Equity Research Analysis,Value Educator,Thane,Thane,6,2000,MS-Excel,MS-Excel
+422,Business Analytics,KBA Systems,Ahmedabad,Ahmedabad,6,3000,"Search Engine Optimization (SEO), English Proficiency (Spoken), English Proficiency (Written), Research and Analytics",Search Engine Optimization (SEO)
+423,Business Analytics,KBA Systems,Ahmedabad,Ahmedabad,6,3000,"Search Engine Optimization (SEO), English Proficiency (Spoken), English Proficiency (Written), Research and Analytics",English Proficiency (Spoken)
+424,Business Analytics,KBA Systems,Ahmedabad,Ahmedabad,6,3000,"Search Engine Optimization (SEO), English Proficiency (Spoken), English Proficiency (Written), Research and Analytics",English Proficiency (Written)
+425,Business Analytics,KBA Systems,Ahmedabad,Ahmedabad,6,3000,"Search Engine Optimization (SEO), English Proficiency (Spoken), English Proficiency (Written), Research and Analytics",Research and Analytics
+426,Machine Learning,Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,8000,"Machine Learning, Computer Vision, Data Science, Natural Language Processing (NLP), Deep Learning",Machine Learning
+427,Machine Learning,Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,8000,"Machine Learning, Computer Vision, Data Science, Natural Language Processing (NLP), Deep Learning",Computer Vision
+428,Machine Learning,Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,8000,"Machine Learning, Computer Vision, Data Science, Natural Language Processing (NLP), Deep Learning",Data Science
+429,Machine Learning,Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,8000,"Machine Learning, Computer Vision, Data Science, Natural Language Processing (NLP), Deep Learning",Natural Language Processing (NLP)
+430,Machine Learning,Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,8000,"Machine Learning, Computer Vision, Data Science, Natural Language Processing (NLP), Deep Learning",Deep Learning
+431,Data Analytics,Cocoon Hospital,Jaipur,Jaipur,3,8000,"Data Analytics, Statistical Modeling",Data Analytics
+432,Data Analytics,Cocoon Hospital,Jaipur,Jaipur,3,8000,"Data Analytics, Statistical Modeling",Statistical Modeling
+433,Technology Consulting,RØMØ-TØNDER TURISTFORENING,Work From Home,Work From Home,6,7000-10000,"HTML, Adobe Photoshop, WordPress, Digital Marketing, Data Analytics, Client Relationship",HTML
+434,Technology Consulting,RØMØ-TØNDER TURISTFORENING,Work From Home,Work From Home,6,7000-10000,"HTML, Adobe Photoshop, WordPress, Digital Marketing, Data Analytics, Client Relationship",Adobe Photoshop
+435,Technology Consulting,RØMØ-TØNDER TURISTFORENING,Work From Home,Work From Home,6,7000-10000,"HTML, Adobe Photoshop, WordPress, Digital Marketing, Data Analytics, Client Relationship",WordPress
+436,Technology Consulting,RØMØ-TØNDER TURISTFORENING,Work From Home,Work From Home,6,7000-10000,"HTML, Adobe Photoshop, WordPress, Digital Marketing, Data Analytics, Client Relationship",Digital Marketing
+437,Technology Consulting,RØMØ-TØNDER TURISTFORENING,Work From Home,Work From Home,6,7000-10000,"HTML, Adobe Photoshop, WordPress, Digital Marketing, Data Analytics, Client Relationship",Data Analytics
+438,Technology Consulting,RØMØ-TØNDER TURISTFORENING,Work From Home,Work From Home,6,7000-10000,"HTML, Adobe Photoshop, WordPress, Digital Marketing, Data Analytics, Client Relationship",Client Relationship
+439,Financial Analysis,Qualicentric LLP,Delhi,Delhi,3,7000-10000,"MS-Office, MS-Word, MS-PowerPoint, MS-Excel, Financial Modeling, Report Writing",MS-Office
+440,Financial Analysis,Qualicentric LLP,Delhi,Delhi,3,7000-10000,"MS-Office, MS-Word, MS-PowerPoint, MS-Excel, Financial Modeling, Report Writing",MS-Word
+441,Financial Analysis,Qualicentric LLP,Delhi,Delhi,3,7000-10000,"MS-Office, MS-Word, MS-PowerPoint, MS-Excel, Financial Modeling, Report Writing",MS-PowerPoint
+442,Financial Analysis,Qualicentric LLP,Delhi,Delhi,3,7000-10000,"MS-Office, MS-Word, MS-PowerPoint, MS-Excel, Financial Modeling, Report Writing",MS-Excel
+443,Financial Analysis,Qualicentric LLP,Delhi,Delhi,3,7000-10000,"MS-Office, MS-Word, MS-PowerPoint, MS-Excel, Financial Modeling, Report Writing",Financial Modeling
+444,Financial Analysis,Qualicentric LLP,Delhi,Delhi,3,7000-10000,"MS-Office, MS-Word, MS-PowerPoint, MS-Excel, Financial Modeling, Report Writing",Report Writing
+445,Finance Research Analytics,Jatalia Finance Company,Delhi,Delhi,6,5000-8000,"MS-Office, MS-Excel",MS-Office
+446,Finance Research Analytics,Jatalia Finance Company,Delhi,Delhi,6,5000-8000,"MS-Office, MS-Excel",MS-Excel
+447,Data Annotation,Tika Data Services Private Limited,Bangalore,Bangalore,3,7000,"MS-Office, English Proficiency (Spoken)",MS-Office
+448,Data Annotation,Tika Data Services Private Limited,Bangalore,Bangalore,3,7000,"MS-Office, English Proficiency (Spoken)",English Proficiency (Spoken)
+449,Data Science & Machine Learning,INSAID,Work From Home,Work From Home,6,10000,"Python, Machine Learning, R Programming, Deep Learning, Power BI, Tableau",Python
+450,Data Science & Machine Learning,INSAID,Work From Home,Work From Home,6,10000,"Python, Machine Learning, R Programming, Deep Learning, Power BI, Tableau",Machine Learning
+451,Data Science & Machine Learning,INSAID,Work From Home,Work From Home,6,10000,"Python, Machine Learning, R Programming, Deep Learning, Power BI, Tableau",R Programming
+452,Data Science & Machine Learning,INSAID,Work From Home,Work From Home,6,10000,"Python, Machine Learning, R Programming, Deep Learning, Power BI, Tableau",Deep Learning
+453,Data Science & Machine Learning,INSAID,Work From Home,Work From Home,6,10000,"Python, Machine Learning, R Programming, Deep Learning, Power BI, Tableau",Power BI
+454,Data Science & Machine Learning,INSAID,Work From Home,Work From Home,6,10000,"Python, Machine Learning, R Programming, Deep Learning, Power BI, Tableau",Tableau
+455,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",Java
+456,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",MATLAB
+457,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",Python
+458,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",MySQL
+459,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",Statistical Modeling
+460,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",Mathematics
+461,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",Machine Learning
+462,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",Data Science
+463,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",C++ Programming
+464,Quantitative Research,AR Quants,Work From Home,Work From Home,3,1500,"Java, MATLAB, Python, SQL, Statistical Modeling, Mathematics, Machine Learning, Data Science, C++ Programming, Deep Learning",Deep Learning
+465,Python Development,Sujosu Technology,Pune,Pune,6,7000,"Python, Statistical Modeling, Machine Learning, Report Writing",Python
+466,Python Development,Sujosu Technology,Pune,Pune,6,7000,"Python, Statistical Modeling, Machine Learning, Report Writing",Statistical Modeling
+467,Python Development,Sujosu Technology,Pune,Pune,6,7000,"Python, Statistical Modeling, Machine Learning, Report Writing",Machine Learning
+468,Python Development,Sujosu Technology,Pune,Pune,6,7000,"Python, Statistical Modeling, Machine Learning, Report Writing",Report Writing
+469,Robotic Process Automation,Omnisys Solutions,Work From Home,Work From Home,3,7500,Not Found,nan
+470,Database Annotation,Xane AI,Work From Home,Work From Home,3,1000-1500,Not Found,nan
+471,Deep Learning,Triptam Labs,Gurgaon,Gurgaon,2,5000,"Python, Machine Learning, Data Science, Deep Learning",Python
+472,Deep Learning,Triptam Labs,Gurgaon,Gurgaon,2,5000,"Python, Machine Learning, Data Science, Deep Learning",Machine Learning
+473,Deep Learning,Triptam Labs,Gurgaon,Gurgaon,2,5000,"Python, Machine Learning, Data Science, Deep Learning",Data Science
+474,Deep Learning,Triptam Labs,Gurgaon,Gurgaon,2,5000,"Python, Machine Learning, Data Science, Deep Learning",Deep Learning
+475,Teaching (Machine Learning),AI Adventures,Pune,Pune,6,10000,"Python, Machine Learning, Data Science, Deep Learning",Python
+476,Teaching (Machine Learning),AI Adventures,Pune,Pune,6,10000,"Python, Machine Learning, Data Science, Deep Learning",Machine Learning
+477,Teaching (Machine Learning),AI Adventures,Pune,Pune,6,10000,"Python, Machine Learning, Data Science, Deep Learning",Data Science
+478,Teaching (Machine Learning),AI Adventures,Pune,Pune,6,10000,"Python, Machine Learning, Data Science, Deep Learning",Deep Learning
+479,Research Analysis,Rivan Solutions,Work From Home,Work From Home,6,1000-2000,MS-Excel,MS-Excel
+480,Research & Development (AI/ML),Factiveminds Consulting Private Limited,Work From Home,Work From Home,3,2000,"Python, Microsoft Azure, Deep Learning, Google Cloud Computing",Python
+481,Research & Development (AI/ML),Factiveminds Consulting Private Limited,Work From Home,Work From Home,3,2000,"Python, Microsoft Azure, Deep Learning, Google Cloud Computing",Microsoft Azure
+482,Research & Development (AI/ML),Factiveminds Consulting Private Limited,Work From Home,Work From Home,3,2000,"Python, Microsoft Azure, Deep Learning, Google Cloud Computing",Deep Learning
+483,Research & Development (AI/ML),Factiveminds Consulting Private Limited,Work From Home,Work From Home,3,2000,"Python, Microsoft Azure, Deep Learning, Google Cloud Computing",Google Cloud Computing
+484,Machine Learning,Buddha Education Association Incorporation,Work From Home,Work From Home,1,6000,Not Found,nan
+485,Machine Learning,The Crafty Talk,Work From Home,Work From Home,1,8700,"Java, Python, Machine Learning, Artifical Intelligence",Java
+486,Machine Learning,The Crafty Talk,Work From Home,Work From Home,1,8700,"Java, Python, Machine Learning, Artifical Intelligence",Python
+487,Machine Learning,The Crafty Talk,Work From Home,Work From Home,1,8700,"Java, Python, Machine Learning, Artifical Intelligence",Machine Learning
+488,Machine Learning,The Crafty Talk,Work From Home,Work From Home,1,8700,"Java, Python, Machine Learning, Artifical Intelligence",Artifical Intelligence
+489,Data Scrapper,Sterling Technolabs,Work From Home,Work From Home,3,2500-6000,Not Found,nan
+490,Video Creation (Machine Learning),Code Wrestling,Work From Home,Work From Home,1,5000,"Python, Machine Learning, Data Science, Artifical Intelligence",Python
+491,Video Creation (Machine Learning),Code Wrestling,Work From Home,Work From Home,1,5000,"Python, Machine Learning, Data Science, Artifical Intelligence",Machine Learning
+492,Video Creation (Machine Learning),Code Wrestling,Work From Home,Work From Home,1,5000,"Python, Machine Learning, Data Science, Artifical Intelligence",Data Science
+493,Video Creation (Machine Learning),Code Wrestling,Work From Home,Work From Home,1,5000,"Python, Machine Learning, Data Science, Artifical Intelligence",Artifical Intelligence
+494,Data Analytics,Mr n Mrs Pet,Jaipur,Jaipur,6,10000,"Data Structures, Data Analytics, MS-Excel, Data Science",Data Structures
+495,Data Analytics,Mr n Mrs Pet,Jaipur,Jaipur,6,10000,"Data Structures, Data Analytics, MS-Excel, Data Science",Data Analytics
+496,Data Analytics,Mr n Mrs Pet,Jaipur,Jaipur,6,10000,"Data Structures, Data Analytics, MS-Excel, Data Science",MS-Excel
+497,Data Analytics,Mr n Mrs Pet,Jaipur,Jaipur,6,10000,"Data Structures, Data Analytics, MS-Excel, Data Science",Data Science
+498,Computer Vision and Deep Learning,Meditab Software Private Limited,Ahmedabad,Ahmedabad,6,10000,"Python, Algorithms, Data Structures, Computer Vision, Deep Learning",Python
+499,Computer Vision and Deep Learning,Meditab Software Private Limited,Ahmedabad,Ahmedabad,6,10000,"Python, Algorithms, Data Structures, Computer Vision, Deep Learning",Algorithms
+500,Computer Vision and Deep Learning,Meditab Software Private Limited,Ahmedabad,Ahmedabad,6,10000,"Python, Algorithms, Data Structures, Computer Vision, Deep Learning",Data Structures
+501,Computer Vision and Deep Learning,Meditab Software Private Limited,Ahmedabad,Ahmedabad,6,10000,"Python, Algorithms, Data Structures, Computer Vision, Deep Learning",Computer Vision
+502,Computer Vision and Deep Learning,Meditab Software Private Limited,Ahmedabad,Ahmedabad,6,10000,"Python, Algorithms, Data Structures, Computer Vision, Deep Learning",Deep Learning
+503,Business Analytics & Optimization,Tercept Incorporation,Bangalore,Bangalore,4,20000-25000,"SQL, MS-Excel",MySQL
+504,Business Analytics & Optimization,Tercept Incorporation,Bangalore,Bangalore,4,20000-25000,"SQL, MS-Excel",MS-Excel
+505,Data Science,Empliance Information Services India LLP,Work From Home,Work From Home,6,6000,"Data Structures, Data Analytics, BIG DATA ANALYTICS, Data Science",Data Structures
+506,Data Science,Empliance Information Services India LLP,Work From Home,Work From Home,6,6000,"Data Structures, Data Analytics, BIG DATA ANALYTICS, Data Science",Data Analytics
+507,Data Science,Empliance Information Services India LLP,Work From Home,Work From Home,6,6000,"Data Structures, Data Analytics, BIG DATA ANALYTICS, Data Science",BIG DATA ANALYTICS
+508,Data Science,Empliance Information Services India LLP,Work From Home,Work From Home,6,6000,"Data Structures, Data Analytics, BIG DATA ANALYTICS, Data Science",Data Science
+509,SAP Processing,INNOVAPTE,Work From Home,Work From Home,6,1000,Not Found,nan
+510,Website Analyst,Fittlyf,Work From Home,Work From Home,4,4000,"Python, SQL, Data Analytics, MS-Excel, R Programming, Research and Analytics",Python
+511,Website Analyst,Fittlyf,Work From Home,Work From Home,4,4000,"Python, SQL, Data Analytics, MS-Excel, R Programming, Research and Analytics",MySQL
+512,Website Analyst,Fittlyf,Work From Home,Work From Home,4,4000,"Python, SQL, Data Analytics, MS-Excel, R Programming, Research and Analytics",Data Analytics
+513,Website Analyst,Fittlyf,Work From Home,Work From Home,4,4000,"Python, SQL, Data Analytics, MS-Excel, R Programming, Research and Analytics",MS-Excel
+514,Website Analyst,Fittlyf,Work From Home,Work From Home,4,4000,"Python, SQL, Data Analytics, MS-Excel, R Programming, Research and Analytics",R Programming
+515,Website Analyst,Fittlyf,Work From Home,Work From Home,4,4000,"Python, SQL, Data Analytics, MS-Excel, R Programming, Research and Analytics",Research and Analytics
+516,Business Analytics,Tradexa Technologies Private Limited,Pune,Pune,6,12000-15000,Not Found,nan
+517,Data Science (Backend Development),RedCarpetUp,Work From Home,Work From Home,6,20000-25000,Not Found,nan
+518,Financial Data Analysis,Northern Arc Capital Limited,Chennai,Chennai,6,7000,"Data Analytics, MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",Data Analytics
+519,Financial Data Analysis,Northern Arc Capital Limited,Chennai,Chennai,6,7000,"Data Analytics, MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",MS-Excel
+520,Financial Data Analysis,Northern Arc Capital Limited,Chennai,Chennai,6,7000,"Data Analytics, MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Spoken)
+521,Financial Data Analysis,Northern Arc Capital Limited,Chennai,Chennai,6,7000,"Data Analytics, MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Written)
+522,Python & Robotics Development,Meditab Software Private Limited,Ahmedabad,Ahmedabad,6,10000,"Python, Algorithms, Data Structures",Python
+523,Python & Robotics Development,Meditab Software Private Limited,Ahmedabad,Ahmedabad,6,10000,"Python, Algorithms, Data Structures",Algorithms
+524,Python & Robotics Development,Meditab Software Private Limited,Ahmedabad,Ahmedabad,6,10000,"Python, Algorithms, Data Structures",Data Structures
+525,Data Science & Computer Vision,Synergy Labs,Gurgaon,Gurgaon,6,15000,"MS-Office, Python",MS-Office
+526,Data Science & Computer Vision,Synergy Labs,Gurgaon,Gurgaon,6,15000,"MS-Office, Python",Python
+527,Data Science,Lawnics Technologies Private Limited,Work From Home,Work From Home,6,1000,"Data Science, Natural Language Processing (NLP)",Data Science
+528,Data Science,Lawnics Technologies Private Limited,Work From Home,Work From Home,6,1000,"Data Science, Natural Language Processing (NLP)",Natural Language Processing (NLP)
+529,AI Technical Program Management,COGAI Solutions Private Limited,Work From Home,Work From Home,6,10000-12000,"Data Analytics, Machine Learning, Product Management, Data Science, Product Lifecycle Management(PLM)",Data Analytics
+530,AI Technical Program Management,COGAI Solutions Private Limited,Work From Home,Work From Home,6,10000-12000,"Data Analytics, Machine Learning, Product Management, Data Science, Product Lifecycle Management(PLM)",Machine Learning
+531,AI Technical Program Management,COGAI Solutions Private Limited,Work From Home,Work From Home,6,10000-12000,"Data Analytics, Machine Learning, Product Management, Data Science, Product Lifecycle Management(PLM)",Product Lifecycle Management(PLM)
+532,AI Technical Program Management,COGAI Solutions Private Limited,Work From Home,Work From Home,6,10000-12000,"Data Analytics, Machine Learning, Product Management, Data Science, Product Lifecycle Management(PLM)",Data Science
+533,AI Technical Program Management,COGAI Solutions Private Limited,Work From Home,Work From Home,6,10000-12000,"Data Analytics, Machine Learning, Product Management, Data Science, Product Lifecycle Management(PLM)",Product Lifecycle Management(PLM)
+534,Business Analytics,MAISTERING BV,Bangalore,Bangalore,3,30000,Not Found,nan
+535,Data Mining,Pregamate Limited,Work From Home,Work From Home,2,2000,Not Found,nan
+536,Web/App Development & Data Science Lead,Abhikey Foundation,Work From Home,Work From Home,3,1000,Not Found,nan
+537,Web Scrapping (Python/ML),Scintillation Research And Analytics Services,Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar,6,13000,"Python, Machine Learning",Python
+538,Web Scrapping (Python/ML),Scintillation Research And Analytics Services,Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar,6,13000,"Python, Machine Learning",Machine Learning
+539,Data Mining,Kabra Bearings & Power Private Limited (TSUKI),Delhi,Delhi,2,5000,"Java, Linux, SQL, SAS, Hadoop",Java
+540,Data Mining,Kabra Bearings & Power Private Limited (TSUKI),Delhi,Delhi,2,5000,"Java, Linux, SQL, SAS, Hadoop",Linux
+541,Data Mining,Kabra Bearings & Power Private Limited (TSUKI),Delhi,Delhi,2,5000,"Java, Linux, SQL, SAS, Hadoop",MySQL
+542,Data Mining,Kabra Bearings & Power Private Limited (TSUKI),Delhi,Delhi,2,5000,"Java, Linux, SQL, SAS, Hadoop",SAS
+543,Data Mining,Kabra Bearings & Power Private Limited (TSUKI),Delhi,Delhi,2,5000,"Java, Linux, SQL, SAS, Hadoop",Hadoop
+544,Project Analyst,Encriss Technologies LLP,Gurgaon,Gurgaon,3,8000,Not Found,nan
+545,Machine Learning (Multi-View Vision),3ME,Work From Home,Work From Home,3,2000-2500,"Linux, Digital Signal Processing, Physics, Mathematics, Machine Learning, Computer Vision",Linux
+546,Machine Learning (Multi-View Vision),3ME,Work From Home,Work From Home,3,2000-2500,"Linux, Digital Signal Processing, Physics, Mathematics, Machine Learning, Computer Vision",Digital Signal Processing
+547,Machine Learning (Multi-View Vision),3ME,Work From Home,Work From Home,3,2000-2500,"Linux, Digital Signal Processing, Physics, Mathematics, Machine Learning, Computer Vision",Physics
+548,Machine Learning (Multi-View Vision),3ME,Work From Home,Work From Home,3,2000-2500,"Linux, Digital Signal Processing, Physics, Mathematics, Machine Learning, Computer Vision",Mathematics
+549,Machine Learning (Multi-View Vision),3ME,Work From Home,Work From Home,3,2000-2500,"Linux, Digital Signal Processing, Physics, Mathematics, Machine Learning, Computer Vision",Machine Learning
+550,Machine Learning (Multi-View Vision),3ME,Work From Home,Work From Home,3,2000-2500,"Linux, Digital Signal Processing, Physics, Mathematics, Machine Learning, Computer Vision",Computer Vision
+551,Business Analytics,Stirring Minds,Work From Home,Work From Home,2,5000-10000,Not Found,nan
+552,Machine Learning,KUKbit Software Lab,Work From Home,Work From Home,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",Python
+553,Machine Learning,KUKbit Software Lab,Work From Home,Work From Home,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",Machine Learning
+554,Machine Learning,KUKbit Software Lab,Work From Home,Work From Home,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",R Programming
+555,Machine Learning,KUKbit Software Lab,Work From Home,Work From Home,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",Data Science
+556,Machine Learning,KUKbit Software Lab,Work From Home,Work From Home,1,4000,"Python, Machine Learning, R Programming, Data Science, Deep Learning",Deep Learning
+557,MLOps,Dimensionless Technologies,Navi Mumbai,Navi Mumbai,6,10000,"Python, Linux, Django, Docker, Microsoft Azure, Amazon Web Server (AWS)",Python
+558,MLOps,Dimensionless Technologies,Navi Mumbai,Navi Mumbai,6,10000,"Python, Linux, Django, Docker, Microsoft Azure, Amazon Web Server (AWS)",Linux
+559,MLOps,Dimensionless Technologies,Navi Mumbai,Navi Mumbai,6,10000,"Python, Linux, Django, Docker, Microsoft Azure, Amazon Web Server (AWS)",Django
+560,MLOps,Dimensionless Technologies,Navi Mumbai,Navi Mumbai,6,10000,"Python, Linux, Django, Docker, Microsoft Azure, Amazon Web Server (AWS)",Docker
+561,MLOps,Dimensionless Technologies,Navi Mumbai,Navi Mumbai,6,10000,"Python, Linux, Django, Docker, Microsoft Azure, Amazon Web Server (AWS)",Microsoft Azure
+562,MLOps,Dimensionless Technologies,Navi Mumbai,Navi Mumbai,6,10000,"Python, Linux, Django, Docker, Microsoft Azure, Amazon Web Server (AWS)",Amazon Web Services (AWS)
+563,SAP BI & Analytics,Trijotech Software Consulting Private Limited,Work From Home,Work From Home,1,10000,"ASP.NET, SQL, Data Analytics, MS-Excel",ASP.NET
+564,SAP BI & Analytics,Trijotech Software Consulting Private Limited,Work From Home,Work From Home,1,10000,"ASP.NET, SQL, Data Analytics, MS-Excel",MySQL
+565,SAP BI & Analytics,Trijotech Software Consulting Private Limited,Work From Home,Work From Home,1,10000,"ASP.NET, SQL, Data Analytics, MS-Excel",Data Analytics
+566,SAP BI & Analytics,Trijotech Software Consulting Private Limited,Work From Home,Work From Home,1,10000,"ASP.NET, SQL, Data Analytics, MS-Excel",MS-Excel
+567,Data Quality Assurance Engineering,AffinityAnswers,Bangalore,Bangalore,6,22000,"SQL, Data Analytics",MySQL
+568,Data Quality Assurance Engineering,AffinityAnswers,Bangalore,Bangalore,6,22000,"SQL, Data Analytics",Data Analytics
+569,Machine Learning,Bilateral Solutions Private Limited,"Manali, Noida",Manali,6,6000-8000,"Python, Machine Learning",Python
+570,Machine Learning,Bilateral Solutions Private Limited,"Manali, Noida",Noida,6,6000-8000,"Python, Machine Learning",Python
+571,Machine Learning,Bilateral Solutions Private Limited,"Manali, Noida",Manali,6,6000-8000,"Python, Machine Learning",Machine Learning
+572,Machine Learning,Bilateral Solutions Private Limited,"Manali, Noida",Noida,6,6000-8000,"Python, Machine Learning",Machine Learning
+573,Data Analytics,Hubhopper (Parijat Innovations Private Limited),Delhi,Delhi,6,10000,"Google Analytics, Data Analytics, MS SQL Server, MS-Excel",Google Analytics
+574,Data Analytics,Hubhopper (Parijat Innovations Private Limited),Delhi,Delhi,6,10000,"Google Analytics, Data Analytics, MS SQL Server, MS-Excel",Data Analytics
+575,Data Analytics,Hubhopper (Parijat Innovations Private Limited),Delhi,Delhi,6,10000,"Google Analytics, Data Analytics, MS SQL Server, MS-Excel",MS SQL Server
+576,Data Analytics,Hubhopper (Parijat Innovations Private Limited),Delhi,Delhi,6,10000,"Google Analytics, Data Analytics, MS SQL Server, MS-Excel",MS-Excel
+577,Machine Learning,D2K Technologies,Navi Mumbai,Navi Mumbai,6,5000-6000,Python,Python
+578,Data Analytics,Colors Digital,"Delhi, Gurgaon, Noida",Delhi,2,5000,"Data Analytics, MS-Excel",Data Analytics
+579,Data Analytics,Colors Digital,"Delhi, Gurgaon, Noida",Gurgaon,2,5000,"Data Analytics, MS-Excel",Data Analytics
+580,Data Analytics,Colors Digital,"Delhi, Gurgaon, Noida",Noida,2,5000,"Data Analytics, MS-Excel",Data Analytics
+581,Data Analytics,Colors Digital,"Delhi, Gurgaon, Noida",Delhi,2,5000,"Data Analytics, MS-Excel",MS-Excel
+582,Data Analytics,Colors Digital,"Delhi, Gurgaon, Noida",Gurgaon,2,5000,"Data Analytics, MS-Excel",MS-Excel
+583,Data Analytics,Colors Digital,"Delhi, Gurgaon, Noida",Noida,2,5000,"Data Analytics, MS-Excel",MS-Excel
+584,Machine Learning,Foresight Systems,Delhi,Delhi,6,10000,"Python, Data Analytics, Machine Learning",Python
+585,Machine Learning,Foresight Systems,Delhi,Delhi,6,10000,"Python, Data Analytics, Machine Learning",Data Analytics
+586,Machine Learning,Foresight Systems,Delhi,Delhi,6,10000,"Python, Data Analytics, Machine Learning",Machine Learning
+587,Data Science & Machine Learning,Markytics,Mumbai,Mumbai,6,3000-5000,"HTML, CSS, JavaScript, Python, Django, PostgreSQL",HTML
+588,Data Science & Machine Learning,Markytics,Mumbai,Mumbai,6,3000-5000,"HTML, CSS, JavaScript, Python, Django, PostgreSQL",CSS
+589,Data Science & Machine Learning,Markytics,Mumbai,Mumbai,6,3000-5000,"HTML, CSS, JavaScript, Python, Django, PostgreSQL",JavaScript
+590,Data Science & Machine Learning,Markytics,Mumbai,Mumbai,6,3000-5000,"HTML, CSS, JavaScript, Python, Django, PostgreSQL",Python
+591,Data Science & Machine Learning,Markytics,Mumbai,Mumbai,6,3000-5000,"HTML, CSS, JavaScript, Python, Django, PostgreSQL",Django
+592,Data Science & Machine Learning,Markytics,Mumbai,Mumbai,6,3000-5000,"HTML, CSS, JavaScript, Python, Django, PostgreSQL",PostgreSQL
+593,Internet Of Things (IoT) & Data Analytics,"Solar Industries India Limited, Nagpur",Nagpur,Nagpur,6,10000,"HTML, CSS, Python, SQL, Data Structures, Data Analytics, AngularJS, Data Science, Internet of Things (IoT)",HTML
+594,Internet Of Things (IoT) & Data Analytics,"Solar Industries India Limited, Nagpur",Nagpur,Nagpur,6,10000,"HTML, CSS, Python, SQL, Data Structures, Data Analytics, AngularJS, Data Science, Internet of Things (IoT)",CSS
+595,Internet Of Things (IoT) & Data Analytics,"Solar Industries India Limited, Nagpur",Nagpur,Nagpur,6,10000,"HTML, CSS, Python, SQL, Data Structures, Data Analytics, AngularJS, Data Science, Internet of Things (IoT)",Python
+596,Internet Of Things (IoT) & Data Analytics,"Solar Industries India Limited, Nagpur",Nagpur,Nagpur,6,10000,"HTML, CSS, Python, SQL, Data Structures, Data Analytics, AngularJS, Data Science, Internet of Things (IoT)",MySQL
+597,Internet Of Things (IoT) & Data Analytics,"Solar Industries India Limited, Nagpur",Nagpur,Nagpur,6,10000,"HTML, CSS, Python, SQL, Data Structures, Data Analytics, AngularJS, Data Science, Internet of Things (IoT)",Data Structures
+598,Internet Of Things (IoT) & Data Analytics,"Solar Industries India Limited, Nagpur",Nagpur,Nagpur,6,10000,"HTML, CSS, Python, SQL, Data Structures, Data Analytics, AngularJS, Data Science, Internet of Things (IoT)",Data Analytics
+599,Internet Of Things (IoT) & Data Analytics,"Solar Industries India Limited, Nagpur",Nagpur,Nagpur,6,10000,"HTML, CSS, Python, SQL, Data Structures, Data Analytics, AngularJS, Data Science, Internet of Things (IoT)",AngularJS
+600,Internet Of Things (IoT) & Data Analytics,"Solar Industries India Limited, Nagpur",Nagpur,Nagpur,6,10000,"HTML, CSS, Python, SQL, Data Structures, Data Analytics, AngularJS, Data Science, Internet of Things (IoT)",Data Science
+601,Internet Of Things (IoT) & Data Analytics,"Solar Industries India Limited, Nagpur",Nagpur,Nagpur,6,10000,"HTML, CSS, Python, SQL, Data Structures, Data Analytics, AngularJS, Data Science, Internet of Things (IoT)",Internet of Things (IoT)
+602,Machine Learning (Python),Neolen,Work From Home,Work From Home,3,2500-5000,"Python, Data Analytics, Mathematics, Machine Learning",Python
+603,Machine Learning (Python),Neolen,Work From Home,Work From Home,3,2500-5000,"Python, Data Analytics, Mathematics, Machine Learning",Data Analytics
+604,Machine Learning (Python),Neolen,Work From Home,Work From Home,3,2500-5000,"Python, Data Analytics, Mathematics, Machine Learning",Mathematics
+605,Machine Learning (Python),Neolen,Work From Home,Work From Home,3,2500-5000,"Python, Data Analytics, Mathematics, Machine Learning",Machine Learning
+606,Data Science,SkillBit,Pune,Pune,2,2000,"Python, Machine Learning",Python
+607,Data Science,SkillBit,Pune,Pune,2,2000,"Python, Machine Learning",Machine Learning
+608,Machine Learning,SkillBit,Pune,Pune,2,5000,"Python, Data Analytics, Machine Learning",Python
+609,Machine Learning,SkillBit,Pune,Pune,2,5000,"Python, Data Analytics, Machine Learning",Data Analytics
+610,Machine Learning,SkillBit,Pune,Pune,2,5000,"Python, Data Analytics, Machine Learning",Machine Learning
+611,Content Development (Python/Machine Learning/AI),Madras Scientific Research Foundation,Work From Home,Work From Home,2,,"Python, Machine Learning, Artifical Intelligence",Python
+612,Content Development (Python/Machine Learning/AI),Madras Scientific Research Foundation,Work From Home,Work From Home,2,,"Python, Machine Learning, Artifical Intelligence",Machine Learning
+613,Content Development (Python/Machine Learning/AI),Madras Scientific Research Foundation,Work From Home,Work From Home,2,,"Python, Machine Learning, Artifical Intelligence",Artifical Intelligence
+614,Data Science (Machine Learning),Expand AI,Work From Home,Work From Home,2,5000,Not Found,nan
+615,Data Analytics,BLEND360,Work From Home,Work From Home,6,20000,"Python, Data Analytics",Python
+616,Data Analytics,BLEND360,Work From Home,Work From Home,6,20000,"Python, Data Analytics",Data Analytics
+617,Data Science (Advanced Python),TerraBlue XT,Work From Home,Work From Home,6,10000,"Python, Mathematics, Machine Learning",Python
+618,Data Science (Advanced Python),TerraBlue XT,Work From Home,Work From Home,6,10000,"Python, Mathematics, Machine Learning",Mathematics
+619,Data Science (Advanced Python),TerraBlue XT,Work From Home,Work From Home,6,10000,"Python, Mathematics, Machine Learning",Machine Learning
+620,Business Analytics,EasyLokal,Kolkata,Kolkata,2,8000-15000,"Data Analytics, Product Management, Data Science, Artifical Intelligence",Data Analytics
+621,Business Analytics,EasyLokal,Kolkata,Kolkata,2,8000-15000,"Data Analytics, Product Management, Data Science, Artifical Intelligence",Product Lifecycle Management(PLM)
+622,Business Analytics,EasyLokal,Kolkata,Kolkata,2,8000-15000,"Data Analytics, Product Management, Data Science, Artifical Intelligence",Data Science
+623,Business Analytics,EasyLokal,Kolkata,Kolkata,2,8000-15000,"Data Analytics, Product Management, Data Science, Artifical Intelligence",Artifical Intelligence
+624,Machine Learning,RanchPal,Work From Home,Work From Home,3,4000,Not Found,nan
+625,Market Research Analytics,Dextech,Noida,Noida,3,9000,"English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Spoken)
+626,Market Research Analytics,Dextech,Noida,Noida,3,9000,"English Proficiency (Spoken), English Proficiency (Written)",English Proficiency (Written)
+627,Financial Technical Analysis (Intraday Trading),Trader For Tomorrow,Work From Home,Work From Home,3,14000,"Data Analytics, Mathematics, MS-Excel, Financial Modeling, Data Science",Data Analytics
+628,Financial Technical Analysis (Intraday Trading),Trader For Tomorrow,Work From Home,Work From Home,3,14000,"Data Analytics, Mathematics, MS-Excel, Financial Modeling, Data Science",Mathematics
+629,Financial Technical Analysis (Intraday Trading),Trader For Tomorrow,Work From Home,Work From Home,3,14000,"Data Analytics, Mathematics, MS-Excel, Financial Modeling, Data Science",MS-Excel
+630,Financial Technical Analysis (Intraday Trading),Trader For Tomorrow,Work From Home,Work From Home,3,14000,"Data Analytics, Mathematics, MS-Excel, Financial Modeling, Data Science",Financial Modeling
+631,Financial Technical Analysis (Intraday Trading),Trader For Tomorrow,Work From Home,Work From Home,3,14000,"Data Analytics, Mathematics, MS-Excel, Financial Modeling, Data Science",Data Science
+632,Tableau Development,Nemesis Consultants LLP,Work From Home,Work From Home,3,8000,"SQL, Data Analytics, MS-Excel, Tableau",MySQL
+633,Tableau Development,Nemesis Consultants LLP,Work From Home,Work From Home,3,8000,"SQL, Data Analytics, MS-Excel, Tableau",Data Analytics
+634,Tableau Development,Nemesis Consultants LLP,Work From Home,Work From Home,3,8000,"SQL, Data Analytics, MS-Excel, Tableau",MS-Excel
+635,Tableau Development,Nemesis Consultants LLP,Work From Home,Work From Home,3,8000,"SQL, Data Analytics, MS-Excel, Tableau",Tableau
+636,Big Data Analytics,Substratal Solutions Private Limited,Work From Home,Work From Home,6,2000-3500,"Python, SQL, Power BI",Python
+637,Big Data Analytics,Substratal Solutions Private Limited,Work From Home,Work From Home,6,2000-3500,"Python, SQL, Power BI",MySQL
+638,Big Data Analytics,Substratal Solutions Private Limited,Work From Home,Work From Home,6,2000-3500,"Python, SQL, Power BI",Power BI
+639,Machine Learning,TikiLIVE,Work From Home,Work From Home,1,18000,Not Found,nan
+640,ML Pipeline Engineering,Episodiclabs Private Limited (Teckniklab),Ahmedabad,Ahmedabad,3,2000-2500,Machine Learning,Machine Learning
+641,Data Science,Applicate IT Solutions Private Limited,Gurgaon,Gurgaon,3,25000,"Python, Machine Learning, REST API, Natural Language Processing (NLP)",Python
+642,Data Science,Applicate IT Solutions Private Limited,Gurgaon,Gurgaon,3,25000,"Python, Machine Learning, REST API, Natural Language Processing (NLP)",Machine Learning
+643,Data Science,Applicate IT Solutions Private Limited,Gurgaon,Gurgaon,3,25000,"Python, Machine Learning, REST API, Natural Language Processing (NLP)",REST API
+644,Data Science,Applicate IT Solutions Private Limited,Gurgaon,Gurgaon,3,25000,"Python, Machine Learning, REST API, Natural Language Processing (NLP)",Natural Language Processing (NLP)
+645,Power BI Development,Nemesis Consultants LLP,Work From Home,Work From Home,3,8000,"MS-Office, Oracle, MS SQL Server, MS-Excel, Power BI",MS-Office
+646,Power BI Development,Nemesis Consultants LLP,Work From Home,Work From Home,3,8000,"MS-Office, Oracle, MS SQL Server, MS-Excel, Power BI",Oracle
+647,Power BI Development,Nemesis Consultants LLP,Work From Home,Work From Home,3,8000,"MS-Office, Oracle, MS SQL Server, MS-Excel, Power BI",MS SQL Server
+648,Power BI Development,Nemesis Consultants LLP,Work From Home,Work From Home,3,8000,"MS-Office, Oracle, MS SQL Server, MS-Excel, Power BI",MS-Excel
+649,Power BI Development,Nemesis Consultants LLP,Work From Home,Work From Home,3,8000,"MS-Office, Oracle, MS SQL Server, MS-Excel, Power BI",Power BI
+650,Data Science,TikiLIVE,Work From Home,Work From Home,1,18000,Not Found,nan
+651,Machine Learning,Fyle,Work From Home,Work From Home,6,35000,"Python, Machine Learning",Python
+652,Machine Learning,Fyle,Work From Home,Work From Home,6,35000,"Python, Machine Learning",Machine Learning
+653,Data Protection,Tsaaro,Work From Home,Work From Home,2,2000-5000,Not Found,nan
+654,Data Science (Django),Markytics,Work From Home,Work From Home,6,3000-5000,"HTML, CSS, JavaScript, Python, Django",HTML
+655,Data Science (Django),Markytics,Work From Home,Work From Home,6,3000-5000,"HTML, CSS, JavaScript, Python, Django",CSS
+656,Data Science (Django),Markytics,Work From Home,Work From Home,6,3000-5000,"HTML, CSS, JavaScript, Python, Django",JavaScript
+657,Data Science (Django),Markytics,Work From Home,Work From Home,6,3000-5000,"HTML, CSS, JavaScript, Python, Django",Python
+658,Data Science (Django),Markytics,Work From Home,Work From Home,6,3000-5000,"HTML, CSS, JavaScript, Python, Django",Django
+659,Teaching Assistance (Data Science),Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,7000,"Python, Django, Machine Learning, Data Science, Flask, Heroku",Python
+660,Teaching Assistance (Data Science),Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,7000,"Python, Django, Machine Learning, Data Science, Flask, Heroku",Django
+661,Teaching Assistance (Data Science),Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,7000,"Python, Django, Machine Learning, Data Science, Flask, Heroku",Machine Learning
+662,Teaching Assistance (Data Science),Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,7000,"Python, Django, Machine Learning, Data Science, Flask, Heroku",Data Science
+663,Teaching Assistance (Data Science),Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,7000,"Python, Django, Machine Learning, Data Science, Flask, Heroku",Flask
+664,Teaching Assistance (Data Science),Pianalytix Edutech Private Limted,Work From Home,Work From Home,2,7000,"Python, Django, Machine Learning, Data Science, Flask, Heroku",Heroku
+665,Business Analytics,4AM Worldwide,Mumbai,Mumbai,3,10000,"Data Analytics, MS-Excel",Data Analytics
+666,Business Analytics,4AM Worldwide,Mumbai,Mumbai,3,10000,"Data Analytics, MS-Excel",MS-Excel
+667,Summer Research,"Indraprastha Institute Of Information Technology, Delhi",Delhi,Delhi,2,5000,Not Found,nan
+668,Computer Science,Aryabhatta Research Institute Of Observational Sciences,Nainital,Nainital,5,10000,Not Found,nan
